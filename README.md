@@ -34,5 +34,7 @@ sudo apt install  swayfx quickshell hyprlock pipewire wireplumber networkmanager
 ``` bash install.sh ```
 
 *я оч устал это делать так что если есть баги пишите в наш чат*
+
 ``` https://t.me/+oqg8SCIp0nczMGEy ```
+
 ``` https://t.me/linux_droidvalds ```
