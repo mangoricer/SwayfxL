@@ -25,3 +25,13 @@ sudo pacman -S  swayfx quickshell hyprlock pipewire wireplumber networkmanager b
 ```bash
 sudo apt install  swayfx quickshell hyprlock pipewire wireplumber networkmanager bluez bluez-utils brightnessctl power-profiles-daemon mako playerctl nerd-fonts awww cava
 ```
+чтобы установить, введите следующие комманды
+1. ```bash
+cd Swayfxl
+```
+2. ```bash
+chmod +x install.sh
+```
+3. ```bash
+bash install.sh
+```
